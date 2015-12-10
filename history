@@ -1,0 +1,46 @@
+    1  history
+    2  gitpush --help
+    3  git init
+    4  rm .git
+    5  rm -r .gi
+    6  rm -r .git
+    7  cd planets
+    8  ls
+    9  ls -a
+   10  git add remote https://github.com/uqrlane2/planets.git
+   11  git remote add https://github.com/uqrlane2/planets.git
+   12  git remote -v
+   13  git push -u origin master
+   14  git pull origin master
+   15  git push -u origin master
+   16  ls -a
+   17  rm mars.txt
+   18  rm myfile.txt
+   19  rm .gitignore
+   20  git pull origin master
+   21  cd ..
+   22  rm -r .git
+   23  ls
+   24  cd planets
+   25  ls
+   26  ls -a
+   27  rm -r .git
+   28  rm -rf .git
+   29  ls -a
+   30  git init
+   31  git config user.name "Rebecca"
+   32  git config user.email "r.lane2@uq.edu.au"
+   33  history 
+   34  history > history
+   35  git config color.ui "auto"
+   36  git remote add origin https://github.com/uqrlane2/planets.git
+   37  git pull -u origin master
+   38  git pull origin master
+   39  git push -u remote master
+   40  git remote -v
+   41  git push -u remote master
+   42  ls
+   43  ls
+   44  ls -a
+   45  rm history
+   46  history > history
